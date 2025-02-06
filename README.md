@@ -20,4 +20,4 @@
 ##### •	Do not stop learning, get as many certifications and training as you possibly can to broaden your horizon of knowledge 
 
 ### Skills 
-##### SQL (CTEs, CASE STATEMENTS)
+##### SQL (CTEs, CASE STATEMENTS), Excel (Pivot tables, visualizations)
